@@ -1,0 +1,12 @@
+# gcc -g fisrtprog.c
+# gdb -q a.out
+#
+(gdb) list
+
+(gdb) disassemble main
+
+(gdb) break main
+
+(info) register eip
+
+
