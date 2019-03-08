@@ -7,6 +7,7 @@
 
 (gdb) break main
 
+
 (info) register eip
 
    0x00000000004004c4 <+0>:	push   rbp
