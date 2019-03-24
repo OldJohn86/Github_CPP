@@ -1,6 +1,7 @@
-#/usr/bin/bash
+#!/bin/bash
 
-
+git config --global user.email "cp_china@163.com"
+git config --global user.name "PengPeng Chen"
 git config --global alias.st status
 git config --global alias.co checkout
 git config --global alias.ci commit
