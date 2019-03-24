@@ -1,0 +1,28 @@
+This version of these tools is an unofficial version of Dug Song's 2.4b1 and
+exists only to permit other people to compile dsniff on different systems.
+
+My page has several patches to do so :
+. dsniff-2.4-configure.in.2.diff : add support to detect libdb3.[12]
+. dsniff-2.4-sshow.c.diff : permit sshow.c to compile
+but "I can't compile dsniff" is always the #1 FAQ in my mailbox...
+
+Not only this version has a better support to detect libdb3.X but it make
+configure.in compatible with autoconf 2.5[07]. autoconf 2.57 emits an error
+about LIBOBJS but generates a working configure.
+
+And the more important : don't forget that DMCA sucks !
+
+New with sined-1 :
+	. configure detects libnet's version and fail with libnet 1.1
+New with sined-2 :
+	. configure doesn't fail anymore with libnet 1.1
+	  . binaries that build : dsniff, filesnarf, mailsnarf, msgsnarf,
+	    sshmitm, sshow, urlsnarf, webmitm and webspy
+	  . tested binaries : sshmitm, sshow and urlsnarf
+	. use the old libnet_name_resolve function instead of the new
+	  libnet_name2addr4 so sshmitm doesn't need to be run by root.
+
+Denis.
+
+---
+http://www.groar.org/

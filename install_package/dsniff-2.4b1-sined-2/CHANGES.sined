@@ -1,0 +1,36 @@
+v2.4b1-sined-2 Mon Jul 14 14:36:15 CEST 2003
+
+- Use the old libnet_name_resolve function instead of the new
+  libnet_name2addr4 so sshmitm doesn't need to be run by root.
+  I know putting a function in an header file is sad...
+
+- Add comment at the end of configure :
+configure: WARNING: =====================================================
+configure: WARNING: Enter "make -i" or "make -k" to build with libnet 1.1
+configure: WARNING: . binaries that build : dsniff filesnarf mailsnarf
+configure: WARNING: msgsnarf sshmitm sshow urlsnarf webmitm and webspy
+configure: WARNING: . binaries that doesn't build : arpspoof dnsspoof
+configure: WARNING: macof tcpkill and tcpnice
+configure: WARNING: . tried binaries : sshmitm sshow and urlsnarf
+configure: WARNING: =====================================================
+
+- Add file libnet_ver_1.h for the easiest libnet incompatibilities
+
+- Make configure to not fail anymore with libnet 1.1
+
+v2.4b1-sined-1 Sun Jul 13 00:38:15 CEST 2003
+
+- Add sysconf replacement for CLK_TCK
+
+- Add detection of libnet version and fail with libnet 1.1
+
+v2.4b1-sined-0 Wed May 28 00:12:33 CEST 2003
+
+- Make configure.in compatible with autoconf 2.5[07]
+  autoconf 2.57 emits an error but generates a working configure
+
+- Add detection of libdb-3.X.a where X != 1 to configure.in
+
+- Add detection of BerkeleyDB.3.[32] to configure.in
+
+- Add #include <time.h> to sshow.c to define CLK_TCK

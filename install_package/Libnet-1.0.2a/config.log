@@ -1,0 +1,37 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:595: checking host system type
+configure:616: checking target system type
+configure:634: checking build system type
+configure:665: checking for gcc
+configure:778: checking whether the C compiler (gcc  ) works
+configure:794: gcc -o conftest    conftest.c  1>&5
+configure:820: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:825: checking whether we are using GNU C
+configure:834: gcc -E conftest.c
+configure:853: checking whether gcc accepts -g
+configure:886: checking for working const
+configure:940: gcc -c -g -O2  conftest.c 1>&5
+configure:1000: checking for a BSD compatible install
+configure:1053: checking whether make sets ${MAKE}
+configure:1084: checking for ranlib
+configure:1119: checking for ar
+configure:1154: checking for ln
+configure:1188: checking for strerror
+configure:1216: gcc -o conftest -O2 -funroll-loops -fomit-frame-pointer -Wall   conftest.c  1>&5
+configure:1242: checking for pcap_open_live in -lpcap
+configure:1261: gcc -o conftest -O2 -funroll-loops -fomit-frame-pointer -Wall   conftest.c -lpcap   1>&5
+configure:1286: checking low-level packet interface type
+configure:1856: checking for libnet_build_ip in -lnet
+configure:1875: gcc -o conftest -O2 -funroll-loops -fomit-frame-pointer -Wall   conftest.c -lnet   1>&5
+configure:1891: checking version
+configure:1912: checking machine endianess
+configure:1982: checking if unaligned accesses fail
+configure:2056: checking for sys/sockio.h
+configure:2066:   conftest.c >/dev/null 2>conftest.out
+./configure: line 2065: conftest.c: command not found
+configure: failed program was:
+#line 2061 "configure"
+#include "confdefs.h"
+#include <sys/sockio.h>
