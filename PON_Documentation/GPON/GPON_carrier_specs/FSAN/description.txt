@@ -1,0 +1,33 @@
+GPON Carrier Specs (FSAN)
+ 
+Link to FSAN INTOP FTP site Cool -  ftp://fsanoan ...
+
+Updated: Jun 2012
+
+Browser:
+ftp://fsanoan:optics4access@store.fsan.org/OAN
+
+FTP Client:
+? Open an FTP Session to store.fsan.org/OAN
+? For the FSAN OAN FTP area, the login details are:
+? Username is: fsanoan
+? Password is: optics4access
+
+Browser:
+ftp://fsanintop:w0rktogether@store.fsan.org/INTOP
+
+FTP Client:
+? Open an FTP Session to store.fsan.org/INTOP
+? For the FSAN Interoperability FTP area, the login details are:
+? Username is: fsanintop
+? Password is: w0rktogether
+
+
+FSAN Test Plan 200609  Download me! Download
+FSAN GPON CTS 200602  Download me! Download
+GPON OMCI Implementors Guide 200805  Download me! Download
+GPON IOP TestPlan 200810  Download me! Download
+G.984.4 Implementer's Guide Draft v4  Download me! Download
+FSAN 9th GPON Interop tests - Beijing, Nov 16-20, 2009  Download me! Download
+Test plan for the 9th GPON interop tests in Beijing 11/16-20, 2009. Tests are supposed to be the same as in Jun, 2009 test cases held in France.
+FSAN 10th GPON interop test plan for March 2010 Cool  Download me! Download

@@ -1,0 +1,2 @@
+From Wikipedia: I2C (Inter-Integrated Circuit, referred to as I-squared-C, I-two-C, or IIC) is a multimaster serial single-ended computer bus invented by the Philips semiconductor division, 
+today NXP Semiconductors, and used for attaching low-speed peripherals to a motherboard, embedded system, cellphone, or other digital electronic devices. 

@@ -1,0 +1,9 @@
+GPON Carrier Spec - Taiwan Chunghwa Telecom (CHT)
+ 
+Specifications for GPON Broadband Access Network - Chunghwa Telecom - Dec 2008
+This is the GPON spec from Taiwan main carrier, Chunghwa Telecom
+Specifications for GPON Broadband Access Network
+Chunghwa Telecom
+MD6134-1 Dec 2008
+CHT FFTX Plan  Download me! Download
+The Development of FTTH in CHT

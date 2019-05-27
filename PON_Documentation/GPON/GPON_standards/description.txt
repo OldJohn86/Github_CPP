@@ -1,0 +1,41 @@
+GPON Standards
+ 
+ITU G-984.3 GPON Framer  Download me! Download
+ITU G-984.3 Amd.1  Download me! Download
+ITU G-984.3 Amd.2  Download me! Download
+ITU G-984.3 Amd.3  Download me! Download
+ITU G-984.4 GPON Management and Control Interface(OMCI)  Download me! Download
+ITU G-984.4 Amd.1  Download me! Download
+ITU G-984.4 Amd.2  Download me! Download
+ITU G-984.2 GPON PMD  Download me! Download
+ITU G-984.2 Amd.1  Download me! Download
+GPON Implementation Guide  Download me! Download
+ITU G-984.1 GPON General characteristics  Download me! Download
+Daytona Application/Platform High Level Design Doc  Download me! Download
+G.984.3 (3/2008) - v1.0  Download Me! download 
+* notify me of updates via email
+Prepublished
+G.984.4-022008.doc  Download me! Download
+ITU-T G.983.2  Download me! Download
+ITU-T G.983.2 BPON OMCI
+ITU-T G.983.2 Amd1  Download me! Download
+G.983.2 Amendment 1
+ITU-T G.983.2 Amd2  Download me! Download
+G.983.2 Amendment 2
+ITU G.984.3 Amd 2 (11/2009) - v1.0  Download Me! download 
+* notify me of updates via email
+ITU update for G.984.3 MAC layer
+ITU G.984.3 Amd 1 (2/2009) - v1.0  Download Me! download 
+* notify me of updates via email
+ITU update to G.984.3 MAC spec
+ITU G.984.4 Amd1 (6/2009) - v1.0  Download Me! download 
+* notify me of updates via email
+ITU G.984.4 GPON MAC Management spec
+ITU G.984.4 Amd2 (11/2009) - v1.0  Download Me! download 
+* notify me of updates via email
+ITU 2nd update to G.984.4 GPON MAC Management
+ITU G.Imp984.4 (10/2009) - v1.0  Download Me! download 
+* notify me of updates via email
+GPON Implementation Guide
+G.984.4 Amd 2 (11/2009)  Download me! Download
+This standard talks about the OMCI ME for ToD(Time of the day)

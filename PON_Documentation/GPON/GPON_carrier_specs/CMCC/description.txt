@@ -1,0 +1,7 @@
+CMCC (China Mobile) GPON Specs
+ 
+CMCC GPON test plan v1.0 (English)  Download me! Download
+In review.
+CMCC GPON test plan v1.6-nobar (Chinese)  Download me! Download
+CMCC GPON spec V1.0.0 in Chinese Cool  Download me! Download
+This is the latest version of CMCC GPON spec by the end of Jun, 2010

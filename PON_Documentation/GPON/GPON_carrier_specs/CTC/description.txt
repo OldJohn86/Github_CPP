@@ -1,0 +1,20 @@
+GPON Carrier Specs (CTC)
+ 
+CTC GPON Spec V0.1_20071120 (Chinese)  Download me! Download
+CTC GPON Spec V0.2 2008 (Chinese)  Download me! Download
+CTC GPON IOP test plan 20080121 (Chinese)  Download me! Download
+CTC GPON Spec V0.2 2008 (English)  Download me! Download
+CTC GPON IOP test plan 20080121 (English)  Download me! Download
+CTC GPON V1.2 2010/02 Spec - Chinese Cool  Download me! Download
+Internal only - do not distribute outside Cortina.
+CTC GPON V1.2 2010/02 Spec - English Cool  Download me! Download
+Internal only - do not distribute outside Cortina.
+CTC GPON specifications V2.0_201101 CH  Download me! Download
+CTC GPON specification V2.0 released in Jan, 2011. This is the combination of CTC GPON Spec V1.2 and two revisions, targeting to resolve some IOP issues.
+CTC GPON specifications V2.0_201101 EN  Download me! Download
+China Telecom GPON specifications V2.0 (draft) released in Jan 2011. The translation was done in Feb 2011.
+China Telecom GPON Technical Specifications V2.0 final version  Download me! Download
+China Telecom GPON specification V2.0 final version, officially released in May 2011
+CTC GPON specifications V2.0_201105 EN  Download me! Download
+This is the final release of CTC GPON specifications.
+FTTH teminal specification (1+1 SFU)_20110715  Download me! Downloa
